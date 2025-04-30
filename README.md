@@ -1,7 +1,7 @@
 ### Overview
 This project is dedicated to evaluating the performance of bank marketing strategies.
 
-### Technologies Used
+### Software Used
 - SQL
 - MySQL
 - MySQL Workbench
